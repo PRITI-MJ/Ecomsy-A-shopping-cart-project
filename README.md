@@ -1,9 +1,14 @@
 # shopping-cart-project
 I have created a shopping cart app using react-js and tailwind and to run this project you need to first install the node modules.
+Inorder to install node modules, here are the following steps:-
+-> Open the terminal.
+-> Inside the terminal, go to the directory in which the project is present.
+-> Type "npm install".
 
 #Output
 
 #Here are some screenshots of my project:-
+
 
 ![Screenshot (1357)](https://github.com/PRITI-MJ/shopping-cart-project/assets/104292906/3f5ae60b-7b31-418e-bc3e-24d631f459ba)
 
